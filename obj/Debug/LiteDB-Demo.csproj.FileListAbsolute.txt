@@ -1,0 +1,11 @@
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\bin\LiteDB-Demo.dll.config
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\bin\LiteDB-Demo.dll
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\bin\LiteDB-Demo.pdb
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\bin\EntityFramework.dll
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\bin\EntityFramework.SqlServer.dll
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\bin\LiteDB.dll
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\bin\EntityFramework.xml
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\bin\EntityFramework.SqlServer.xml
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\obj\Debug\LiteDB-Demo.csprojResolveAssemblyReference.cache
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\obj\Debug\LiteDB-Demo.dll
+E:\Users\Benjamin\Documents\GitHub\LiteDB-Demo\LiteDB-Demo\obj\Debug\LiteDB-Demo.pdb
